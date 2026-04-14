@@ -1,79 +1,27 @@
-# 🧠 Online Proctoring System
+Customer Management System (CRM)
+ Description
 
-## 📌 Project Overview
+This is a backend Customer Management System built using Java and Spring Boot.
+The project demonstrates real-world CRUD operations and RESTful API development, making it suitable for students, beginners, and interview preparation.
 
-The **Online Proctoring System** is an intelligent AI-based monitoring platform designed to ensure **fair, secure, and cheating-free online assessments**.  
-It leverages **computer vision techniques** to monitor candidate behavior in real time by tracking **eye gaze, facial landmarks, and head movements** during online evaluations.
+ Features
 
-All monitoring data is securely stored in a **MySQL database**, while a **React-based dashboard** enables proctors to view, manage, and review assessment sessions efficiently.
+Create, Read, Update, Delete (CRUD) customers
 
-This project demonstrates the real-world application of **AI, computer vision, and full-stack development** in online examination systems.
+Search customer by phone number
 
----
+RESTful APIs using Spring Boot
 
-## ✨ Features
+Clean backend architecture
 
-- Real-time face detection and eye gaze tracking
-- Facial landmark detection using MediaPipe
-- Candidate behavior monitoring during assessments
-- Secure storage of monitoring data in MySQL
-- React-based dashboard for proctor management
-- Designed for fair and secure online evaluations
+ Tech Stack
 
----
+Java
 
-## 🛠️ Tech Stack
+Spring Framework & Spring Boot
 
-### Backend & AI
-- Python  
-- OpenCV  
-- MediaPipe  
+Spring Data JPA
 
-### Database
-- MySQL  
+MySQL / SQL
 
-### Frontend
-- React.js  
-
----
-
-## 🔍 Use Cases
-
-- Online examinations  
-- Remote interviews  
-- AI-based candidate monitoring systems  
-- Educational assessment platforms  
-
----
-
-## 🧩 System Workflow
-
-1. Candidate starts the online assessment.
-2. Webcam feed is captured in real time.
-3. Computer vision algorithms analyze eye gaze and facial landmarks.
-4. Monitoring data is stored securely in the MySQL database.
-5. Proctors review and manage sessions via the React dashboard.
-
----
-
-## 🚀 Learning Outcomes
-
-- Hands-on experience with computer vision and AI
-- Real-time video processing using OpenCV
-- Integration of AI models with web applications
-- Full-stack development using React and MySQL
-- Understanding of secure and scalable system design
-
----
-
-## 📁 Project Status
-
-This project is developed for **academic learning, experimentation, and interview preparation**.
-
----
-
-## 👩‍💻 Author
-
-**Pragya Mishra**
-
-Feel free to explore, use, and improve this project.
+Postman
